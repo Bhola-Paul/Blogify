@@ -2,7 +2,7 @@ Blogging Website Backend
 
 This is the backend of a blogging website built using Node.js, Express, MongoDB, and JWT authentication. It provides secure user authentication, server-side rendering, and efficient database management for a seamless blogging experience.
 
-Features
+Features:
 
 User Authentication: Secure signup and login functionality using JWT-based authentication.
 
